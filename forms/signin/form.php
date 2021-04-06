@@ -54,11 +54,12 @@
   <div class="partition">
       <div class="logo">
           <b><p Style="text-align:center;font-size:25px;color: #ff4d4d;opacity:0.7;">ADMIN LOGIN</p></b></div>
+          <div>
      <p>EMAIL:</p>
-       <input type='text' placeholder="bhutta123@gmail.com" name='loginusername' id="loginusername" value="" onblur='SC._VALIDATE_FIELD_EMAIL(this)'> 
+       <input type='text' placeholder="arslan@gmail.com" name='loginusername' id="loginusername" onblur='SC._VALIDATE_FIELD_EMAIL(this)'> 
       <label style="color:red;font-size:20px;">&#10003;</label>
       <p>Password:</p>
-    <input type='password'  placeholder="123" name='loginpassword' id="loginpassword" value=""  style = "background-color: #333333;
+    <input type='password'  placeholder="123" name='loginpassword' id="loginpassword"  style = "background-color: #333333;
     border: none;
     color: #666666;
     padding: 10px;
@@ -69,6 +70,7 @@
       <input id="btn" type="submit" value="LogIn" name="submit" >
       <a href="#">Reset password ?</a>
       <br><br>
+      </div>
       </div>
       <br>
       </form>
