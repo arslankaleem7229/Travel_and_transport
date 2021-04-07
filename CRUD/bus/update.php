@@ -61,5 +61,5 @@ $license = $model = $routeFrom = $routeTo = $number = $drivername = "";
         header("Location:/travel_and_transport/CRUD/bus/index.php");
     } else {
         echo "Error updating record: " . $conn->error;
-    }
+    }}
         ?> 

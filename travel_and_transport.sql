@@ -109,7 +109,7 @@ CREATE TABLE `login` (
 
 INSERT INTO `login` (`ID`, `NAME`, `CONTACT`, `USERNAME`, `PASSCODE`, `CATEGORY`) VALUES
 (1, NULL, NULL, 'arslankaleem71@gmail.com', '123456789', 'user'),
-(2, 'arslan kaleem', '03102020135', 'arslankaleem7229@gmail.com', '987654321', 'user'),
+(2, 'arslan kaleem', '03100000000', 'arslankaleem7229@gmail.com', '987654321', 'user'),
 (3, 'bhutta` hasnat', '287398179237', 'bhutta123@gmail.com', '123', 'Admin');
 
 -- --------------------------------------------------------
