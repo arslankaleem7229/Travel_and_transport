@@ -21,7 +21,7 @@
                         <!--            <td><a href="#">TODAY'S INCOME</a></td>-->
                     </tr>
                     <tr id="singleLink" style="background-color:#ff4d4d;">
-                        <td><a style="" href="../../index.php">LogOut</a></td>
+                        <td><a href="../../index.php">LogOut</a></td>
                     </tr>
                 </table>
             </form>
