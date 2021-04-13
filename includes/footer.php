@@ -6,13 +6,13 @@
          <span style="color: #ff4d4d;"><b>Developed by : Arslan Kaleem </b></span>
      </div>
 	<div class="socialMedia">
-            <h1 class="mediaHeader">Follow us</h1> 
-        
+            <h1 class="mediaHeader">Follow us</h1>
+
         <div id="links" class="preventTextSelection" unselectable="on" onselectstart="return false;"onmousedown="return false;">
             <a href="https://www.facebook.com" class="fa fa-facebook"></a>
             <a href="https://www.twitter.com" class="fa fa-twitter"></a>
             <a href="https://www.instagram.com" class="fa fa-instagram"></a>
             <a href="https://www.youtube.com" class="fa fa-youtube"></a>
      </div>
-	
+
 </div>
